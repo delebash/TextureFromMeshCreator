@@ -1,7 +1,7 @@
 # TextureFromMeshCreator
 Create a texture from a camera view of your mesh
 
-##Intro Video:  https://youtu.be/HL54vKHMjtk
+## Intro Video:  https://youtu.be/HL54vKHMjtk
 
 
 ## Support:
